@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/b2c-api/auth-api/bin/Debug/netcoreapp3.1
+/b2c-api/auth-api/obj
+/b2c-api/.vs/b2c-api
+/b2c-api/common/bin/Debug/netcoreapp3.1
+/b2c-api/common/obj
